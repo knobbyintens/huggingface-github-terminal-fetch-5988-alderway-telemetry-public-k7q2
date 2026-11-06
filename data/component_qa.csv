@@ -1,0 +1,7 @@
+component,build,tests_passed,tests_total,critical_cves,license_ok,owner_signed
+telemetry-core,2026.11.1,500,500,0,yes,yes
+metric-collector,2026.11.1,320,320,0,yes,yes
+alert-router,2026.11.1,210,210,0,yes,yes
+auth-gateway,2026.11.1,44,44,0,yes,yes
+dashboard-api,2026.11.1,180,180,0,yes,yes
+schema-registry,2026.11.1,96,96,0,yes,yes
